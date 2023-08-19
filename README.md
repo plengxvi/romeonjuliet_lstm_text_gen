@@ -1,2 +1,2 @@
-# romeonjuliet_lstm_text_gen
+# Generative AI Chatbot using LSTM
 Building a Chatbot with LSTM for Text Generation
